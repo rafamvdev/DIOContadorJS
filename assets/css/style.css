@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(113, 168, 184);
+    text-align: center;
+    margin-top: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    margin-top: 50px;
+}
+p{
+    margin-top: 50px;
+}
+#counter button{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(35, 58, 133);
+    color: rgba(255, 255, 255, 0.8);
+}
